@@ -1,0 +1,2 @@
+# PictureGallery
+一个简单的网页图片库,能够实现不打开新窗口的前提下切换图片,主要用到getElementByTagName等方法
